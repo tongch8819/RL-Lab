@@ -1,4 +1,4 @@
-# Reinforcement Learing Lab
+# Reinforcement Learning Lab
 
 This repository aims to re-build the wheels for self-study.
 
